@@ -83,10 +83,10 @@ author:
   name             : "Dr. Tom Narock"
   avatar           : "tom_narock.jpg"
   bio              : "Assistant Professor of Data Science, Goucher College"
-  location         : "Baltimore, MD"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  location         : #"Baltimore, MD"
+  employer         : "test"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "https://scholar.google.com/citations?user=ZnoM_joAAAAJ&hl=en"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -96,20 +96,21 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "narock"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  mastodon         : "https://mastodon.social/@tnarock"
+  orcid            : "http://orcid.org/0000-0002-9785-4496"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "tnarock"
   vine             :
   weibo            :
   xing             :
