@@ -90,10 +90,6 @@ author:
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
-  links:
-      label: "Mastodon"
-      icon: "fab fa-mastodon" 
-      url: "https://mastodon.social/@tnarock"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -107,6 +103,7 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
+  mastodon         : "mastodon.social/@tnarock"
   orcid            : "http://orcid.org/0000-0002-9785-4496"
   pinterest        :
   soundcloud       :
