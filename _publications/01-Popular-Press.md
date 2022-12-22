@@ -2,10 +2,8 @@
 title: "Popular Press"
 collection: publications
 permalink: /publication/popular-press
+excerpt: 'YouTube, Podcasts, Newspapers, etc.'
 ---
-
-Popular Press
-======
 
 <div class="wrapper row3">
   <main id="container" class="clear"> 

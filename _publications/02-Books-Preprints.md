@@ -2,9 +2,9 @@
 title: "Books and Non-Peer-Reviewed Works"
 collection: publications
 permalink: /publication/books-non-peer-reviewed
+excerpt: 'Books and non-peer-reviewed works'
+date: Last Updated 2022-12-22
 ---
-
-Books and non-peer reviewed works.
 
 Books
 ======
