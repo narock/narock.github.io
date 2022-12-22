@@ -7,11 +7,6 @@ venue: "Goucher College"
 date: 2021-01-01
 ---
 
-DMC-345 Introduction to Machine Learning
-======
-
-DMC-321 Linear Algebra
-======
-
-MA-416 Scientific Computation (as Independent Study)
-======
+* DMC-345 Introduction to Machine Learning
+* DMC-321 Linear Algebra
+* MA-416 Scientific Computation (as Independent Study)
