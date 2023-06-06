@@ -5,8 +5,7 @@ permalink: /publication/books-non-peer-reviewed
 excerpt: 'Books and non-peer-reviewed works'
 ---
 
-<br><br>
-
+<br>
 <u>Books</u>
 ======
 
@@ -20,7 +19,7 @@ excerpt: 'Books and non-peer-reviewed works'
       
 * We also authored [Chapter 1](http://ebooks.iospress.nl/volumearticle/40091) and I contributed to [Chapter 11](http://ebooks.iospress.nl/volumearticle/40105)
 
-
+<br>
 <u>Non-Journal Publications</u>
 ======
 
