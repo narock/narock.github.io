@@ -17,7 +17,8 @@ Education
 
 Work experience
 ======
-* 2019 - Present: Assistant Professor, Goucher College
+* 2023 - present: Associate Professor, Goucher College
+* 2019 - 2023: Assistant Professor, Goucher College
 * 2016 - 2019: Assistant Professor, Notre Dame of Maryland University
 * 2014 - 2016: Assistant Professor, Marymount University
 * 2012 - 2013: Associate Research Scientist, University of Maryland Baltimore County
