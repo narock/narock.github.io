@@ -1,5 +1,4 @@
 ---
-title: "Writing"
 permalink: /writing/
 layout: single
 ---
@@ -7,7 +6,7 @@ layout: single
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="archive__item-teaser">
-      <img src="https://substackcdn.com/image/fetch/$s_!PNLi!,w_1272,h_847,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8b19926-220c-4fbd-86ce-8b07e200e373_2752x1536.png" alt="What Does Science Sound Like?">
+      <img src="https://substackcdn.com/image/fetch/$s_!PNLi!,w_1272,h_847,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff8b19926-220c-4fbd-86ce-8b07e200e373_2752x1536.png" alt="What Does Science Sound Like?">{: .align-left width="50%"}
     </div>
     <h2 class="archive__item-title" itemprop="headline">
       <a href="https://appliedeverywhere.substack.com/p/what-does-science-sound-like">What Does Science Sound Like?</a>
