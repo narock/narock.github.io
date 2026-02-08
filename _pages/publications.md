@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Peer reviewed publications are available on my <u><a href="https://scholar.google.com/citations?user=ZnoM_joAAAAJ&hl=en"> Google Scholar profile</a>.</u>
+Peer reviewed publications are available on my <a href="https://scholar.google.com/citations?user=ZnoM_joAAAAJ&hl=en"> Google Scholar profile</a>.
 
 {% include base_path %}
 
