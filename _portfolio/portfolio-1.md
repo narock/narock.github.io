@@ -1,7 +1,7 @@
 ---
-title: "<a href="https://soundcloud.com/science-sortof/275-publishing-rocks">Science... Sort of Podcast</a>"
-excerpt: "Chris Jackson and Tom Narock chat about preprints, EarthArXiv, and computers taking over the world"
-collection: portfolio
+title: "Science... Sort of Podcast"
+external_url: "https://soundcloud.com/science-sortof/275-publishing-rocks"
+layout: single
 ---
 
 <div class="wrapper row3">
