@@ -52,18 +52,17 @@
       {% if author.linkedin %}
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin" aria-hidden="true"></i> LinkedIn</a></li>
       {% endif %}
-      {% if author.substack %}
+
+      {% if author.medium %}
         <li>
-          <a href="https://{{ author.substack }}.substack.com" itemprop="sameAs" rel="nofollow noopener noreferrer">
-          <svg style="width:1em; margin-right:0.5em; vertical-align: -0.125em; fill: #FF6719;" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-            <path d="M15 3.604H1v1.891h14v-1.89ZM1 7.208V16l7-3.926L15 16V7.208zM15 0H1v1.89h14z"/>
-          </svg>Substack
+          <a href="https://medium.com/@{{ author.medium }}" itemprop="sameAs" rel="nofollow noopener noreferrer">
+            <svg style="width:1em; margin-right:0.5em; vertical-align: -0.125em; fill: #000000;" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+            <path d="M13.54 12a6.8 6.8 0 01-6.77 6.82A6.82 6.82 0 010 12a6.82 6.82 0 016.77-6.82A6.8 6.8 0 0113.54 12zM20.96 12c0 3.54-1.51 6.41-3.38 6.41s-3.38-2.87-3.38-6.41 1.51-6.41 3.38-6.41 3.38 2.87 3.38 6.41zM24 12c0 3.17-.53 5.75-1.19 5.75s-1.19-2.58-1.19-5.75.53-5.75 1.19-5.75S24 8.83 24 12z"/>
+          </svg>Medium
           </a>
         </li>
       {% endif %}
-      {% if author.mastodon %}
-        <li><a rel="me" href="https://{{ author.mastodon }}" ><i class="fab fa-fw fa-mastodon" aria-hidden="true"></i> Mastodon</a></li>
-      {% endif %}
+      
       {% if author.threads %}
         <li><a rel="me" href="" ><i class="fa-brands fa-fw fa-threads" aria-hidden="true"></i> @tom.narock@threads.net</a></li>
       {% endif %}
