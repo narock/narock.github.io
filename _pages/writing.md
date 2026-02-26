@@ -2,7 +2,7 @@
 permalink: /writing/
 layout: single
 ---
-
+<!--
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="archive__item-teaser">
@@ -13,6 +13,7 @@ layout: single
     </h2>
   </article>
 </div>
+-->
 
 <br/><br/>
 
