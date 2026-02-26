@@ -36,7 +36,7 @@ layout: single
       <img src="https://substackcdn.com/image/fetch/$s_!9yvJ!,w_960,h_639,c_fill,f_webp,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fefe271da-a89f-44c2-9925-8fc5a225e2b1_1280x720.jpeg" alt="When the Sun and a Sprinter Look the Same to a Computer" style="width: 50%; float: left; margin-right: 20px;">
     </div>
     <h2 class="archive__item-title" itemprop="headline">
-      <a href="https://appliedeverywhere.substack.com/p/when-the-sun-and-a-sprinter-look">When the Sun and a Sprinter Look the Same to a Computer</a>
+      <a href="https://medium.com/applied-everywhere/when-the-sun-and-a-sprinter-look-the-same-to-a-computer-1ac1f93d5c5f">When the Sun and a Sprinter Look the Same to a Computer</a>
     </h2>
   </article>
 </div>
