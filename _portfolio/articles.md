@@ -3,6 +3,9 @@ title: "Websites, Blogs, and Magazines"
 layout: single
 ---
 
+## [Goucher College Press Release](https://www.goucher.edu/news/research-grant-urban-heat-mapping)
+March 2026 - college's press release on grant to advance research on urban heat mapping and environmental justice 
+
 ## [Goucher Magazine](https://blogs.goucher.edu/magazine/running-the-numbers/)
 July 2025 - article in the college magazine featuring our sports analytics project
 
