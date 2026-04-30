@@ -6,6 +6,19 @@ layout: single
 <div class="list__item">
   <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
     <div class="archive__item-teaser">
+      <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*5zwQnLtdrABzH6jvMRQBMQ.png" alt="Fielding Uncertainty: Bayesian Probability Meets Sports Analytics" style="width: 50%; float: left; margin-right: 20px;">
+    </div>
+    <h2 class="archive__item-title" itemprop="headline">
+      <a href="https://medium.com/science-spectrum/fielding-uncertainty-bayesian-probability-meets-sports-analytics-05cf1165c925">Fielding Uncertainty: Bayesian Probability Meets Sports Analytics</a>
+    </h2>
+  </article>
+</div>
+
+<br/><br/>
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="archive__item-teaser">
       <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*AeFGL89q6GWwEN4g_WBTFg.jpeg" alt="What Does Science Sound Like?" style="width: 50%; float: left; margin-right: 20px;">
     </div>
     <h2 class="archive__item-title" itemprop="headline">
